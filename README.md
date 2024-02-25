@@ -1,4 +1,4 @@
-<img src="./l.gif" width="300%">
+<img src=".eu/l.gif" width="300%">
 
 # eu-ubcpfbb-v1
 
